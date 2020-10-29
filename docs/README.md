@@ -1,4 +1,4 @@
-# 🖱️ YClicker
+# 🖱️ YClickerOld
 
 Otomatik Tıklama Sayacı
 
