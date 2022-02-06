@@ -1,5 +1,5 @@
-# 🖱️ YClickerOld
+# 🖱️ YTimedClicker
 
-Otomatik Tıklama Sayacı
+Zamanlı tıklayıcı
 
 ![](../res/app_image.png)
